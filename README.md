@@ -33,4 +33,4 @@ Join Airdrop Node:
 </a>
 </p>
 
---Jangan lupa klik star tombol di atas
+--Jangan lupa klik tombol star di pojok atas
