@@ -6,9 +6,8 @@ Sangat di sarankan buat akun baru, daftar dengan email untuk memulai di Grass:
 [REGISTER GRASS](https://app.getgrass.io/register/?referralCode=7vC9i90CDWrQf5-)
 
 
-## Instalasi Otomatis
-Pakai Proxy
-Gunakan perintah di bawah ini untuk menginstal:
+## Instalasi Otomatis Pakai Proxy
+
 ```bash
 wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Grass.sh && chmod +x Grass.sh && ./Grass.sh
 
