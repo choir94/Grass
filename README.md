@@ -2,7 +2,7 @@
 
 ## Daftar Akun Baru
 
-Sangat di sarankan buat akaun baru, daftar dengan email untuk memulai di Grass:  
+Sangat di sarankan buat akun baru, daftar dengan email untuk memulai di Grass:  
 [REGISTER GRASS](https://app.getgrass.io/register/?referralCode=7vC9i90CDWrQf5-)
 
 ## Mining Grass Menggunakan VPS
