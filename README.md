@@ -2,8 +2,8 @@
 
 ## Daftar Akun Baru
 
-Daftar dengan email untuk memulai di Grass:  
-[Daftar di Grass](https://app.getgrass.io/register/?referralCode=2G4AzIQX87ObykI)
+Sangat di sarankan buat akaun baru, daftar dengan email untuk memulai di Grass:  
+[REGISTER GRASS](https://app.getgrass.io/register/?referralCode=7vC9i90CDWrQf5-)
 
 ## Mining Grass Menggunakan VPS
 
@@ -17,7 +17,7 @@ Ikuti diskusi dan bantuan di Telegram:
 </p>
 
 ## Instalasi Otomatis
-
+Pakai Proxy
 Gunakan perintah di bawah ini untuk menginstal:
 ```bash
 wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Grass.sh && chmod +x Grass.sh && ./Grass.sh
