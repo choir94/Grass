@@ -23,6 +23,8 @@ chmod +x grass.sh
 ./grass.sh
 
 ```
+## Support
+https://trakteer.id/AirdropNode/tip
 
 Join Airdrop Node:  
 [Grup Telegram AirdropNode](https://t.me/airdrop_node)
